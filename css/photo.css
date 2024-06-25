@@ -1,0 +1,29 @@
+/* PHOTO */
+h1{
+    color: rgba(255, 255, 255, 0.705);
+}
+.Video-F{
+    text-align: center;
+    margin-top: 150px;
+}
+.F-photo{
+    margin-top: 80px;
+    margin-left: 11%;
+}
+.F-photo img{
+    margin-left: 8%;
+}
+.G1{
+    text-align: center;
+    color: #ffffffd3;
+}
+.S-photo{
+    margin-top: 74px;
+    margin-left: 5%;
+}
+.S-photo-2{
+    margin-left: 20%;
+}
+.S-photo-3{
+    margin-left: 15%;
+}
